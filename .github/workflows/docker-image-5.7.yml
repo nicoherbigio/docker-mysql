@@ -12,8 +12,8 @@ env:
   DOCKERHUB_IMAGE_TAGS: |
     nicoherbigde/mysql:5.7
     nicoherbigio/mysql:5.7
-    nicoherbigde/mysql:5.7.33
-    nicoherbigio/mysql:5.7.33
+    nicoherbigde/mysql:5.7.34
+    nicoherbigio/mysql:5.7.34
 
 jobs:
   build-and-push:
