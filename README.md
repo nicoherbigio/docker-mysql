@@ -2,9 +2,9 @@
 
 ## Supported tags and respective `Dockerfile` links
 
--	[`8.0`, `5.7.22`](https://github.com/nicoherbigio/docker-mysql/blob/master/8.0/debian/default/Dockerfile)
--	[`5.7`, `5.7.32`](https://github.com/nicoherbigio/docker-mysql/blob/master/5.7/debian/default/Dockerfile)
--	[`5.6`, `5.6.50`](https://github.com/nicoherbigio/docker-mysql/blob/master/5.6/debian/default/Dockerfile)
+ * [`8.0`, `5.7.22`](https://github.com/nicoherbigio/docker-mysql/blob/master/8.0/debian/default/Dockerfile)
+ * [`5.7`, `5.7.32`](https://github.com/nicoherbigio/docker-mysql/blob/master/5.7/debian/default/Dockerfile)
+ * [`5.6`, `5.6.50`](https://github.com/nicoherbigio/docker-mysql/blob/master/5.6/debian/default/Dockerfile)
 
 ## Copyleft
 
