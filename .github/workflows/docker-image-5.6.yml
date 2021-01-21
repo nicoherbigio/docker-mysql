@@ -11,7 +11,9 @@ env:
   DOCKER_IMAGE_CONTEXT_PATH: 5.6/debian/default/
   DOCKERHUB_IMAGE_TAGS: |
     nicoherbigde/mysql:5.6
+    nicoherbigio/mysql:5.6
     nicoherbigde/mysql:5.6.50
+    nicoherbigio/mysql:5.6.50
 
 jobs:
   build-and-push:
