@@ -1,4 +1,4 @@
-FROM mysql:8.0.26
+FROM mysql:8.0.27
 
 LABEL maintainer="Nico Herbig <nico@nicoherbig.io>"
 
