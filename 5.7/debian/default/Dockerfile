@@ -1,4 +1,4 @@
-FROM mysql:5.7.37-debian
+FROM mysql:5.7.38-debian
 
 LABEL maintainer="Nico Herbig <nico@nicoherbig.io>"
 
