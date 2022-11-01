@@ -26,8 +26,8 @@ jobs:
             docker-tags: |
               nicoherbigde/mysql:5.7
               nicoherbigio/mysql:5.7
-              nicoherbigde/mysql:5.7.39
-              nicoherbigio/mysql:5.7.39
+              nicoherbigde/mysql:5.7.40
+              nicoherbigio/mysql:5.7.40
           - version: 8.0
             docker-context: 8.0/debian/default
             docker-tags: |
