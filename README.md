@@ -4,7 +4,7 @@
 
 ## Supported tags and respective `Dockerfile` links
 
- * [`8.0`, `8.0.30` (8.0/debian/default/Dockerfile)](https://github.com/nicoherbigio/docker-mysql/blob/main/8.0/debian/default/Dockerfile)
+ * [`8.0`, `8.0.31` (8.0/debian/default/Dockerfile)](https://github.com/nicoherbigio/docker-mysql/blob/main/8.0/debian/default/Dockerfile)
  * [`5.7`, `5.7.40` (5.7/debian/default/Dockerfile)](https://github.com/nicoherbigio/docker-mysql/blob/main/5.7/debian/default/Dockerfile)
 
 ## How to get this image
