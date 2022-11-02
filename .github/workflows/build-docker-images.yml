@@ -25,16 +25,12 @@ jobs:
             docker-context: 5.7/debian/default
             docker-tags: |
               nicoherbigde/mysql:5.7
-              nicoherbigio/mysql:5.7
               nicoherbigde/mysql:5.7.40
-              nicoherbigio/mysql:5.7.40
           - version: 8.0
             docker-context: 8.0/debian/default
             docker-tags: |
               nicoherbigde/mysql:8.0
-              nicoherbigio/mysql:8.0
               nicoherbigde/mysql:8.0.31
-              nicoherbigio/mysql:8.0.31
 
     steps:
       - name: Checkout Git Repository
