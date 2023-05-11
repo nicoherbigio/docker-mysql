@@ -5,7 +5,7 @@
 ## Supported tags and respective `Dockerfile` links
 
  * [`8.0`, `8.0-bullseye`, `8.0.32`, `8.0.32-bullseye`](https://github.com/nicoherbigio/docker-mysql/blob/main/8.0/debian/default/Dockerfile)
- * [`5.7`, `5.7-bullseye`, `5.7.41`, `5.7.41-bullseye`](https://github.com/nicoherbigio/docker-mysql/blob/main/5.7/debian/default/Dockerfile)
+ * [`5.7`, `5.7-bullseye`, `5.7.42`, `5.7.42-bullseye`](https://github.com/nicoherbigio/docker-mysql/blob/main/5.7/debian/default/Dockerfile)
 
 ## How to get this image
 
