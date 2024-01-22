@@ -25,8 +25,8 @@ jobs:
             docker-tags: |
               nicoherbigde/mysql:8.0
               nicoherbigde/mysql:8.0-bullseye
-              nicoherbigde/mysql:8.0.35
-              nicoherbigde/mysql:8.0.35-bullseye
+              nicoherbigde/mysql:8.0.36
+              nicoherbigde/mysql:8.0.36-bullseye
 
     steps:
       - name: Checkout Git Repository
