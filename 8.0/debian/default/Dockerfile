@@ -1,4 +1,4 @@
-FROM mysql:8.0.36-debian
+FROM mysql:8.0.36-bullseye
 
 LABEL maintainer="Nico Herbig <nico@nicoherbig.io>"
 
