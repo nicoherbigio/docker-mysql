@@ -18,15 +18,15 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        version: [8.0-bullseye]
+        version: [8.0-bookworm]
         include:
-          - version: 8.0-bullseye
+          - version: 8.0-bookworm
             docker-context: 8.0/debian/default
             docker-tags: |
               nicoherbigde/mysql:8.0
-              nicoherbigde/mysql:8.0-bullseye
+              nicoherbigde/mysql:8.0-bookworm
               nicoherbigde/mysql:8.0.36
-              nicoherbigde/mysql:8.0.36-bullseye
+              nicoherbigde/mysql:8.0.36-bookworm
 
     steps:
       - name: Checkout Git Repository
