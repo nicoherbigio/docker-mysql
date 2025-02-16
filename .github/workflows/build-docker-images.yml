@@ -25,8 +25,8 @@ jobs:
             docker-tags: |
               nicoherbigde/mysql:8.0
               nicoherbigde/mysql:8.0-bookworm
-              nicoherbigde/mysql:8.0.40
-              nicoherbigde/mysql:8.0.40-bookworm
+              nicoherbigde/mysql:8.0.41
+              nicoherbigde/mysql:8.0.41-bookworm
 
     steps:
       - name: Checkout Git Repository
