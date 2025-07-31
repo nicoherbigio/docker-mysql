@@ -1,4 +1,4 @@
-FROM mysql:8.0.42-bookworm
+FROM mysql:8.0.43-bookworm
 
 LABEL maintainer="Nico Herbig <nico@nicoherbig.io>"
 
