@@ -4,7 +4,7 @@
 
 ## Supported tags and respective `Dockerfile` links
 
- * [`8.0`, `8.0-bookworm`, `8.0.41`, `8.0.41-bookworm`](https://github.com/nicoherbigio/docker-mysql/blob/main/8.0/debian/default/Dockerfile)
+ * [`8.0`, `8.0-bookworm`, `8.0.42`, `8.0.42-bookworm`](https://github.com/nicoherbigio/docker-mysql/blob/main/8.0/debian/default/Dockerfile)
 
 ## How to get this image
 
